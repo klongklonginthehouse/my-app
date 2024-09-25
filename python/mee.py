@@ -3,9 +3,9 @@ from datetime import datetime
 st.set_page_config(page_title="My Website", page_icon="🚀", layout="wide")
 
 def home():
-    st.title("Home Page")
-    st.write("Welcome to the home page!")
-    st.write("Hi👋 I'm Jave Gajelloma, a BSICT Student From SNSU Main Campust")
+    st.title("My Home Page")
+    st.write("Welcome to Blog welcome to my Life!")
+    st.write("Hi👋 I'm Jave Gajelloma, a BSICT Student From SNSU Main Campus")
     
     st.image("https://scontent.fcgy2-1.fna.fbcdn.net/v/t39.30808-6/458980880_1049790273601649_7547396865509863730_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEDy0Y5XKTab04M7kklw5vgqKWFpow9wUaopYWmjD3BRroVX2nZzvqP3Mqj6GymGx5T35RSpiP4n7V4hB93C5S6&_nc_ohc=CMBu__Evl4kQ7kNvgF5kBN6&_nc_ht=scontent.fcgy2-1.fna&_nc_gid=AvAg7JJDD1kwNmK6nQriSJP&oh=00_AYAbySnst8BxHby2KIRpeDRu6bs36sYIcGQ8Zkw0ca5ayA&oe=66F950BF", caption="Hello World", use_column_width=True)
     
@@ -17,7 +17,7 @@ def about_me():
     st.write("Reading Books 📖👀 ")
     st.write("Playing Games 🎮🎮")
     st.write("Watching Movies 👧🧑")
-    st.write("Practicing Programming 💻")
+    st.write("Practicing Coding 💻")
     st.write("And Also I like Girls 😏🥴")
 
 def contact():
