@@ -1,1 +1,1 @@
-# my-app
+# Manual Lyric Generator
